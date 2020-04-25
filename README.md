@@ -14,7 +14,8 @@ Now, let’s get on to solving the problem! I’m going to use the unique proper
 TRY OUT THE FOLLOWING CODE:
 
 
-```@echo off
+```
+@echo off
 cls
 echo.
 echo.
